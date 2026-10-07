@@ -1,3 +1,7 @@
+"""
+This script prepares the image dataset for helmet detection.
+It organizes and processes images before they are used for model training.
+"""
 import os
 import shutil
 import random
