@@ -1,3 +1,8 @@
+"""
+This script loads the trained helmet detection model,
+processes an input image, and predicts whether a helmet
+is present in the image.
+"""
 import cv2
 import numpy as np
 import tensorflow as tf
